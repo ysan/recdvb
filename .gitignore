@@ -1,16 +1,3 @@
 *.o
-*~
-Makefile
-.deps
-autom4te.cache/
-config.h
-config.h.in
-config.log
-config.status
-configure
+*.d
 recdvb
-chkdvbsignal
-recpe1ctl
-tssplitter_lite
-version.h
-
